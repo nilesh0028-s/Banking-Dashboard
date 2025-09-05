@@ -27,3 +27,4 @@ Data Modeling –> Relationships, measures, and DAX calculations
 ->Customer growth and retention patterns
 
 
+example- ![Dashboard Preview].(https://github.com/nilesh0028-s/Banking-Dashboard/blob/main/Customer_Analysis.png).
