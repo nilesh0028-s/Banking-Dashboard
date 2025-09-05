@@ -26,6 +26,6 @@ Data Modeling –> Relationships, measures, and DAX calculations
 ->Seasonal transaction trends
 ->Customer growth and retention patterns
 
-### 6.	Screenshots / Demos
+### 	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/nilesh0028-s/Banking-Dashboard/blob/main/Customer_Analysis.png)
